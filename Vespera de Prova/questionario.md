@@ -22,7 +22,9 @@ O que é Pull request ?
 R= Um Pull/Merge Request (dependendo da ferramenta utilizada) é uma forma colaborativa de compartilhar criação ou mudanças de código no repositório
  de forma que facilite ser revisado e/ou discutido entre todos os membros do time.
 
-Oque é Fork ?
+O que é Fork ?
 R= Fork nada mais é que uma cópia de um repositório. Esta cópia vira um clone do estado atual do repositório
  fazendo assim com que você possa experimentar mudanças e feature novas sem precisar utilizar o repositório principal
 
+Oque é Clone ?
+R= Clona o repostório remoto para o local.
