@@ -4,7 +4,7 @@
  alterações ao código-fonte ao longo do tempo. 
 
 Quais linguagens posso utilizar quando trabalho com o Github ?
- R= Não há restrição de linguagem
+ R= Não há restrição de linguagem.
 
 O que é um repositório ?
 R= é uma pasta onde será colocado os arquivos do projeto.
