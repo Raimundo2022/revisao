@@ -15,3 +15,6 @@ R= Se estiver ena opção público, sim !
 oque é VCS ?
 R= Software de controle de versão.
 
+Oque é Branch ?
+R= Uma ramificação dos repositórios
+
