@@ -11,3 +11,6 @@ R= é uma pasta onde será colocado os arquivos do projeto.
 Os códigos que colocam no Github estarão sempre disponiveis aos usuários da web ?
 R= Se estiver ena opção público, sim !
 
+oque é VCS ?
+R= Software de controle de versão.
+
