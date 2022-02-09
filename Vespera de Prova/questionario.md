@@ -6,15 +6,19 @@
 Quais linguagens posso utilizar quando trabalho com o Github ?
  R= Não há restrição de linguagem.
 
-Oque é um repositório ?
+O que é um repositório ?
 R= é uma pasta onde será colocado os arquivos do projeto.
 
 Os códigos que colocam no Github estarão sempre disponiveis aos usuários da web ?
 R= Se estiver ena opção público, sim !
 
-oque é VCS ?
+O que é VCS ?
 R= Software de controle de versão.
 
-Oque é Branch ?
+O que é Branch ?
 R= Uma ramificação dos repositórios
+
+O que é Pull request ?
+R= Um Pull/Merge Request (dependendo da ferramenta utilizada) é uma forma colaborativa de compartilhar criação ou mudanças de código no repositório
+ de forma que facilite ser revisado e/ou discutido entre todos os membros do time.
 
